@@ -1,2 +1,2 @@
 # tLab
-Türkçe
+Sanal Labaratuvar Ortamı | Virtual Laboratory Environment
